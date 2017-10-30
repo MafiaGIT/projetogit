@@ -15,7 +15,7 @@
 <meta name="description" content="">
 <meta name="author" content="">
 <link href="bootstrap/css/estilo.css" rel="stylesheet" type="text/css"/>
-
+<title>QueryPetty</title>
 <link href="bootstrap/css/bootstrap.min.css" rel="stylesheet" type="text/css"/>
 <link href="bootstrap/css/bootstrap-theme.min.css" rel="stylesheet" type="text/css"/>
 <link href="bootstrap/css/estilo_index.css" rel="stylesheet" type="text/css"/>
