@@ -66,7 +66,7 @@
            <button id="btnenviar" name="btnenviar" class="btn btn-primary btn-lg">Enviar</button>
          </div>
         </div>
-        
+       <!--tabela--> 
        </fieldset>
         </form> 
      </body>
