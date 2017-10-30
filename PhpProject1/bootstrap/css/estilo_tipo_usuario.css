@@ -1,0 +1,12 @@
+
+.panel-body .btn:not(.btn-block) { 
+    width:120px;margin-bottom:10px; 
+}
+
+.login-box, .register-box {
+  
+    width: 1000px;
+    position: absolute;
+    left: 445px;
+    margin: 7% auto;
+}

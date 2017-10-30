@@ -1,0 +1,164 @@
+/*Slider*/
+body{
+    font-family: Arial, sans-serif;
+}
+
+#myCarousel .nav a small
+{
+    display: block;
+}
+#myCarousel .nav
+{
+    background: #eee;
+}
+.nav-justified > li > a
+{
+    border-radius: 0px;
+}
+
+.texto-carrossel{
+    font-family: Arial, sans-serif;
+    font-size: 18px;
+    color: #000;
+    background-color: #fff;
+    padding: 15px;
+    border-radius: 3px;
+}
+
+
+/*Jumbotron*/
+
+.jumbotron{
+    margin-bottom:20px;
+    margin-top:20px;
+    position: center;
+   
+}
+
+.pricing {
+    text-align: center;
+}
+
+/*Page Header*/
+.page-header{
+    text-align:center;
+}
+
+
+.container-fluid{
+    
+    background-color: #294CFC;
+}
+
+.navbar navbar-default{
+    color: #ffffff;
+}
+
+
+#menu a, #menu nav navbar-nav li a{
+    
+    color: #ffffff;
+    text-shadow: none; 
+}
+
+.navbar-default .navbar-nav>li>a {
+    color: #ffffff;
+}
+
+.navbar-brand, .navbar-nav>li>a {
+    text-shadow: 0 1px 0 rgba(255,255,255,.25);
+}
+
+
+/*  ESTILIZAÇÃO DOS LINKS E ÍCONES*/
+
+
+#texto-info h1 p{
+    color: #000;
+    text-align: justify;
+    font-family: Arial, sans-serif;
+}
+
+#titulo{
+    font-family: Arial, sans-serif;
+    font-size: 25px;
+}
+
+#texto-apres{
+    font-family: Arial, sans-serif;
+    font-size: 15px;
+}
+
+.titul-carrossel{
+    font-family: Arial, sans-serif;
+    font-size: 25px;
+}
+
+.text-carrossel{
+    font-family: Arial, sans-serif;
+    font-size: 15px;
+}
+
+.icone{
+    
+  background: none; 
+    border: none;  
+}
+
+
+li:hover, .icone:hover{
+    background: #ffffff; 
+    border: none; 
+}
+
+.nav navbar-nav navbar-right{
+    
+    color: #294CFC;
+}
+
+
+
+
+.menu-fixo {
+ position: fixed;
+ top: 0;
+ z-index: 99;
+ width: 100%;
+ border-color: #294CFC;
+ border-radius: 0px;
+}
+
+/*-----------------
+CARROSSEL COLORIDO 
+-----------------*/
+
+.carrossel-colorido{
+    
+    background-color: #D1D9CE;
+    color: #294CFC;
+    font-size: 15px;
+}
+
+#carrossel-colorido{
+    background-color: #D1D9CE;
+    color: #294CFC;
+    font-size: 15px;
+}
+
+
+/*-----------------------------------
+CARROSSEL COLORIDO COM MOUSE POR CIMA
+-----------------------------------*/
+#carrossel-colorido:hover{
+    font-family: Arial, sans-serif;
+    color: #294CFC; 
+    background-color: #ffffff;
+    font-size: 15px;
+}
+
+.carrossel-colorido:hover{
+    font-family: Arial, sans-serif;
+    color: #294CFC; 
+    background-color: #ffffff;
+    font-size: 15px;
+}
